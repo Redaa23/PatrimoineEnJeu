@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     };
 
     private String[] mImagesTitles = new String[] {
-            "luem","ottmar","rixheim","zimme"
+            "luem","ottmar","rixheim","zimmer"
 
     };
     @Override
